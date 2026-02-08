@@ -42,7 +42,7 @@ Este repositório está organizado de acordo com os módulos e atividades do cur
 
 ## 🎯 Projetos e Listas de Exercícios Concluídos
 
-- [Lista de Exercícios 01](./modulo-1/exercicios/)
+- [Lista de Exercícios 01](./modulo-1/exercicios.md/)
 - [Lista de Exercícios 02](./modulo-2/exercicios/)
 - [Lista de Exercícios 03](./modulo-3/exercicios/)
 
