@@ -19,11 +19,9 @@ modelos preditivos.
 
 ## 📚 Módulos do Curso
 
-#### Módulo 1: Python
-
-#### Módulo 2: Análise de dados 
-
-#### Módulo 3: Visão Computacional 
+- **Módulo 1: Python**
+- **Módulo 2: Análise de dados**
+- **Módulo 3: Visão Computacional**
 
 ## 📂 Estrutura do Repositório
 
@@ -31,9 +29,9 @@ Este repositório está organizado de acordo com os módulos e atividades do cur
 
 ```
 ├── modulo-1/
-│   └──  exercicios/
+│   └──  exercicios.md
 ├── modulo-2/
-│   └── exercicios/
+│   └── Atividade_02.ipynb
 ├── modulo-3/
 │   └── exercicios/
 └── projetos-destaque/
@@ -42,13 +40,12 @@ Este repositório está organizado de acordo com os módulos e atividades do cur
 
 ## 🎯 Projetos e Listas de Exercícios Concluídos
 
-- [Lista de Exercícios 01](./modulo-1/exercicios.md/)
-- [Lista de Exercícios 02](./modulo-2/exercicios/)
+- [Lista de Exercícios 01](./modulo-1/exercicios.md)
+- [Lista de Exercícios 02](./modulo-2/Atividade_02.ipynb)
 - [Lista de Exercícios 03](./modulo-3/exercicios/)
 
 ## 🛠️ Tecnologias Utilizadas
 
-<!-- Liste as principais tecnologias do curso -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 📝 Notas e Observações
